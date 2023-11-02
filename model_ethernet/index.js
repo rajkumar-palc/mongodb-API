@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const { route } = require('../routes');
+// const { route } = require('../routes');
 
 const dataSchema = new mongoose.Schema({
     id: {
